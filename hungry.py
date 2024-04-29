@@ -6,3 +6,6 @@ print("now I keep some changes in the code for 2 commit")
 
 
 print("This change will occure in the second branch")
+
+
+print("its pizza and burger")
